@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	const float length = 3;
-	const float width = 5;
+	const float length = 5.5;
+	const float width = 2.7;
 	float area;
 	float perimeter;
 
